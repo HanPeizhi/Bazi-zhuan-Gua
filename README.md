@@ -1,4 +1,4 @@
-# Bazi-to-Gua
+# Bazi-zhuan-Gua
 将输入的四柱八字转换成相对应的六十四卦
   
   
